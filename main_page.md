@@ -7,22 +7,32 @@ header2: 10 Simple Rules for Using GitHub for Education
 image: /site_images/CBW_bigdata_icon.jpg
 ---
 
-Rule 1 - Put thought into your user or organisation name
+# Welcome <a id="welcome"></a>
 
-Rule 2 - Choose a site theme that sends your message 
+Welcome to 10 Simple Rules for Using GitHub for Education.  
 
-Rule 3 - Create templates 
+# Day 1 <a id="day1"></a>
 
-Rule 4 - Use submodules
+## Welcome
 
-Rule 5 - Use teams
+*<font color="#827e9c">Ann Meyer</font>*  
 
-Rule 6 - Have a main landing page  
+[Rule 1 - Put thought into your user or organisation name](https://bioinformaticsdotca.github.io/rule_1)  
 
-Rule 7 - Individual pages for each workshop
+[Rule 2 - Choose a site theme that sends your message](https://bioinformaticsdotca.github.io/rule_2)  
 
-Rule 8 - Individual pages for each tutorial
+[Rule 3 - Create templates and have a consistent structure](https://bioinformaticsdotca.github.io/rule_3)  
 
-Rule 9 - Write informative commit messages
+[Rule 4 - Use submodules](https://bioinformaticsdotca.github.io/rule_4)  
 
-Rule 10 - Embed Google Analytics
+[Rule 5 - Use teams](https://bioinformaticsdotca.github.io/rule_5)  
+
+[Rule 6 - Have a main landing page](https://bioinformaticsdotca.github.io/rule_6)  
+
+[Rule 7 - Individual pages for each workshop](https://bioinformaticsdotca.github.io/rule_7)  
+
+[Rule 8 - Individual pages for each tutorial](https://bioinformaticsdotca.github.io/rule_8)  
+
+[Rule 9 - Write informative commit messages](https://bioinformaticsdotca.github.io/rule_9)  
+
+[Rule 10 - Embed Google Analytics](https://bioinformaticsdotca.github.io/rule_10)  
