@@ -15,7 +15,7 @@ modified: 2017-11-15
 * Individual or organisation account  
 * Create site repo
 
-# Different Account Typea
+# Different Account Types
 
 ## Individual Accounts
 
