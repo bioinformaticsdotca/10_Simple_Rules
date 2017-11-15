@@ -23,6 +23,6 @@ Rule 7 - Individual pages for each workshop
 
 Rule 8 - Individual pages for each tutorial
 
-Rule 9 - Use markdown
+Rule 9 - Write informative commit messages
 
 Rule 10 - Embed Google Analytics
