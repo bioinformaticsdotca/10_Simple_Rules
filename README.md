@@ -1,1 +1,1 @@
-# Conference
+# 10 Simple Rules for Using GitHub for Workshops
