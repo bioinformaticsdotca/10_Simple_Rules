@@ -136,3 +136,5 @@ We should also make a template for our tutorials, named tutorial.html:
 </html>
 
 ```
+
+Now we're ready to put together our first workshop!
