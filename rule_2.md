@@ -57,11 +57,52 @@ git push origin master
 
 After installing the theme, if you visit yourname.github.io, it should look like the Cayman download page (it might take a few minutes for your site to actually render.  Be patient and refresh until you see the site).
 
-To make the site yours, you need to edit a few documents.
+To make the site yours, you need to edit a few documents.  To edit files within GitHub, click on the file name and then click on the pencil icon.
 
-To do this in GitHub, click on your "index.md" file in your site repo.
+## config.yml
 
-Click on the pencil icon.
+This config file is for settings that affect your whole site, values which you are expected to set up once and rarely need to edit after that.
+
+Within this file, we need to change the title and description.  We will also add social media (twitter, github) and specify our markdown type.
+
+```
+title: Ann's Site
+description: Site built with GitHub pages.
+show_downloads: true
+theme: jekyll-theme-cayman
+
+# Social Media
+
+twitter_username: meyer_ann
+github_username:  annmeyer
+
+# Build settings
+markdown: kramdown
+
+# Google Services
+
+google_analytics:
+```
+
+Reloading our site now should show these changes.
+
+## Index.md
+
+This file is the actual content of your landing page.
+
+When we open this to edit, we see the page header section:
+
+```
+---
+layout: default
+---
+```
+
+We'll ignore this for now.
+
+Let's delete everything after this section and type something else like "Site under construction".
+
+Reload your site until you see the updates.
 
 
 
