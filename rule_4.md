@@ -27,3 +27,40 @@ Having your content on GitHub is a good start for accessibility and adding CC-Sh
 ## Metadata Tags
 
 These are tags that keep the content from being displayed on your site but are machine readable.  
+
+```
+			<!-- BioSchemas -->
+				<div itemscope itemtype="http://schema.org/creativeWork">
+					<meta itemprop="genre" content="trainingMaterial">
+					<meta div itemprop="name"> {{ page.header2 }} </div>
+					<meta div itemprop="description"> {{ page.description }} </div>
+					<meta div>Event type: 
+						<meta span itemprop="eventType">Workshops and courses</span>
+					</div>
+					<meta div>Author: 
+						<div itemprop="author" itemscope itemtype="http://schema.org/Person">
+							<span itemprop="name"> {{ page.author }} </span>
+						</div>
+					</div>
+					<div>Target audience:
+						<span itemprop="audience" itemscope itemtype="http://schema.org/Audience">
+   							<span itemprop="audienceType">Omics</span>
+   							<span itemprop="genre">Omics</span>
+						</span>
+					</div>
+					<div>Material: 
+						<span itemprop="learningResourceType">text</span>,
+						<span itemprop="learningResourceType">exercise files</span>, 
+						<span itemprop="learningResourceType">scripts</span>
+					</div>
+					<div>License:
+						<span itemprop="license">https://creativecommons.org/licenses/by-sa/4.0/</span>
+					</div>
+					<div> Tutorial as part of workshop
+						<span itemprop="isPartOf"> {{ page.home }} </span>
+					</div>
+					<div>Last modified:
+   						<span itemprop="dateModified"> {{ page.modified }} </span>
+					</div>
+				</div>
+```
