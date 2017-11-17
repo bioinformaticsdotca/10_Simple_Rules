@@ -70,6 +70,7 @@ title: Ann's Site
 description: Site built with GitHub pages.
 show_downloads: true
 theme: jekyll-theme-cayman
+url: annmeyer.github.io
 
 # Social Media
 
