@@ -77,3 +77,7 @@ Here is the code snippet that should be added to the `<head>` section of your wo
 					</div>
 				</div>
 ```
+
+
+
+[Next rule](https://bioinformaticsdotca.github.io/rule_5)
