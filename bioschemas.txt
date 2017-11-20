@@ -18,8 +18,8 @@
 						</span>
 					</div>
 					<meta div> 
-						<meta span itemprop="learningResourceType" content="text"></span>,
-						<meta span itemprop="learningResourceType" content="exercise files"></span>, 
+						<meta span itemprop="learningResourceType" content="text"></span>
+						<meta span itemprop="learningResourceType" content="exercise files"></span> 
 						<meta span itemprop="learningResourceType" content="scripts"></span>
 					</div>
 					<meta div>
