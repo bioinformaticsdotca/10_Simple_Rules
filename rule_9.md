@@ -40,7 +40,7 @@ To assign your new team to your workshop repo, head over to your workshop repo. 
 
 In the sidebar, select `Collaborators and Teams`.  
 
-<img src="https://github.com/bioinformaticsdotca/10_Simple_Rules/blob/master/img/collabs_teams.png?raw=true" alt="sidebar" width="450" align="middle" />
+<img src="https://github.com/bioinformaticsdotca/10_Simple_Rules/blob/master/img/collabs_teams.png?raw=true" alt="sidebar" width="250" align="middle" />
 
 In the Teams box, click on the dropdown menu and select the team you just created.  Note that you can also create a team from this box.  
 
