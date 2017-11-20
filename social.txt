@@ -1,4 +1,4 @@
-						<section>
+
 							<h2><font color="grey">Contact Us</font></h2>
 							<dl class="alt">
 								<dt><font color="grey">Email</font></dt>
@@ -10,4 +10,4 @@
 								<li><a href="https://github.com/{{ site.github_username }}" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
 								<li><a href="{{ site.YouTube }}" class="icon fa-youtube alt"><span class="label">YouTube</span></a></li>
 							</ul>
-						</section>
+
