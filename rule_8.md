@@ -32,6 +32,7 @@ In GitHub, in your websiter repo, head to `_layouts` and click on `default.html`
 Change this:
 
 ```
+<!--
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -39,6 +40,7 @@ Change this:
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
+ -->
 ```
 
 to this:
