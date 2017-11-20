@@ -39,45 +39,6 @@ In BioSchemas, somethings that you want to include but don't necessarily want di
 * the date the content was last modified  
 * a description of the content  
 
-Here is the code snippet that should be added to the `<head>` section of your workshop landing and tutorial templates:  
-
-```
-			<!-- BioSchemas -->
-				<div itemscope itemtype="http://schema.org/creativeWork">
-					<meta itemprop="genre" content="trainingMaterial">
-					<meta div itemprop="name"> {{ page.header2 }} </div>
-					<meta div itemprop="description"> {{ page.description }} </div>
-					<meta div>Event type: 
-						<meta span itemprop="eventType">Workshops and courses</span>
-					</div>
-					<meta div>Author: 
-						<meta div itemprop="author" itemscope itemtype="http://schema.org/Person">
-							<meta span itemprop="name"> {{ page.author }} </span>
-						</div>
-					</div>
-					<meta div>Target audience:
-						<meta span itemprop="audience" itemscope itemtype="http://schema.org/Audience">
-   							<meta span itemprop="audienceType">Omics</span>
-   							<meta span itemprop="genre">Omics</span>
-						</span>
-					</div>
-					<meta div>Material: 
-						<meta span itemprop="learningResourceType">text</span>,
-						<meta span itemprop="learningResourceType">exercise files</span>, 
-						<meta span itemprop="learningResourceType">scripts</span>
-					</div>
-					<meta div>License:
-						<meta span itemprop="license">https://creativecommons.org/licenses/by-sa/4.0/</span>
-					</div>
-					<meta div> Tutorial as part of workshop
-						<meta span itemprop="isPartOf"> {{ page.home }} </span>
-					</div>
-					<meta div>Last modified:
-   						<meta span itemprop="dateModified"> {{ page.modified }} </span>
-					</div>
-				</div>
-```
-
-
+[Here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/bioschemas.txt) is the code snippet that should be added to the `<head>` section of your workshop landing and tutorial templates.  
 
 [Next rule](https://bioinformaticsdotca.github.io/rule_5)
