@@ -30,6 +30,7 @@ Conveniently, the site theme we are using already has a code snippet for Google 
 The code snippet in the templates looks like this:
 
 ```
+<!--
     {% if site.google_analytics %}
       <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -40,6 +41,7 @@ The code snippet in the templates looks like this:
         ga('send', 'pageview');
       </script>
     {% endif %}
+-->
 ```
 
 Make sure that is copied to the bottom of all of your page templates.
