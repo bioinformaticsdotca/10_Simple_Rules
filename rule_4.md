@@ -14,7 +14,7 @@ modified: 2017-11-17
 # Learning Objectives
 
 * Know what is FAIR  
-* Use metadata to be FAIR  
+* Use metadata with BioSchemas to be FAIR  
 
 # Findable, Accessible, Interoperable, and Reusable
 
