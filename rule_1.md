@@ -47,9 +47,15 @@ In an internet browser, go to github.com and log into your account or your organ
 
 To create a new repo, at the top of the page in the black navigation bar, click on "+" and select "New repository".
 
+<img src="https://github.com/bioinformaticsdotca/10_Simple_Rules/blob/master/img/new_repo.png?raw=true" alt="New Repo" width="450" align="middle" />
+
 Under "Owner", ensure that the correct owner is selected in the dropdown since you might be an owner of an individual account and several organisations.
 
+<img src="https://github.com/bioinformaticsdotca/10_Simple_Rules/blob/master/img/Owner.png?raw=true" alt="Owner" width="450" align="middle" />
+
 Under Repository Name, in the textbox, enter the name of your site.  This is where the name of your individual account or organisation account becomes **very** important.  The format of the name is username.github.io *or* organisation.github.io (where username is your GitHub username and organisation is your GitHub organisation name).  Your repo will not render as a website if you do not use this format.
+
+<img src="https://github.com/bioinformaticsdotca/10_Simple_Rules/blob/master/img/site_name.png?raw=true" alt="Site Name" width="650" align="middle" />
 
 Decide whether the repo will be *public* (anyone on the internet can view it but only those you choose can change it) or *private* (only you and those you choose can view it and change it).   
 
@@ -64,6 +70,7 @@ You will need to clone your newly created repo to your computer.  To do this, ty
 ```
 git clone https://github.com/username/username.github.io
 ```
+
 Remember to change *username* to your user or organisation name.
 
 Next, you will need to move into your repo, initialize it as a git repo (for version control), and add the remote.  To do this, type:
