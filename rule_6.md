@@ -67,3 +67,7 @@ Content:
 ```
 
 ## Step Four: Link the Tutorial Page to the Landing Page
+
+
+
+[Next rule](https://bioinformaticsdotca.github.io/rule_7)
