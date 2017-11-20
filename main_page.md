@@ -25,14 +25,14 @@ Welcome to 10 Simple Rules for Using GitHub for Education.
 
 [Rule 4 - Be FAIR](https://bioinformaticsdotca.github.io/rule_4)
 
-[Rule 5 - Use submodules](https://bioinformaticsdotca.github.io/rule_5)  
+[Rule 5 - Put important information into page headers](https://bioinformaticsdotca.github.io/rule_5)  
 
-[Rule 6 - Use teams](https://bioinformaticsdotca.github.io/rule_6)  
+[Rule 6 - Have individual repos for each workshop](https://bioinformaticsdotca.github.io/rule_6)  
 
-[Rule 7 - Have a main landing page](https://bioinformaticsdotca.github.io/rule_7)  
+[Rule 7 - Use submodules](https://bioinformaticsdotca.github.io/rule_7)  
 
-[Rule 8 - Individual pages for each workshop](https://bioinformaticsdotca.github.io/rule_8)  
+[Rule 8 - Have a main landing page](https://bioinformaticsdotca.github.io/rule_8)  
 
-[Rule 9 - Individual pages for each tutorial](https://bioinformaticsdotca.github.io/rule_9)  
+[Rule 9 - Use teams](https://bioinformaticsdotca.github.io/rule_9)  
 
 [Rule 10 - Embed Google Analytics](https://bioinformaticsdotca.github.io/rule_10)  
