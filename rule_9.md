@@ -49,3 +49,6 @@ In the Teams box, click on the dropdown menu and select the team you just create
 You can change the permissions for each team assigned to your repo.  If this were a private repo and you wanted to give a group access but didn't want them to be able to make changes, you could assign that team *read* permissions.  If you want a team to be able to make changes, for example a group of instructors, you can assign them *write* permissions.  *Admin* permissions allow users to add collaborators to a repo.
 
 
+
+[Next rule](https://bioinformaticsdotca.github.io/rule_10)
+
