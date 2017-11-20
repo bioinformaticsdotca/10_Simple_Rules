@@ -71,3 +71,7 @@ git push origin master
 ```
 
 Any changes you've made to your workshop repo should now be visible on your website.
+
+
+
+[Next rule](https://bioinformaticsdotca.github.io/rule_8)
