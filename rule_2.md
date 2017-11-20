@@ -109,4 +109,6 @@ Reload your site until you see the updates.
 
 
 
+[Next rule](https://bioinformaticsdotca.github.io/rule_3)
+
 
