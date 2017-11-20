@@ -42,32 +42,33 @@ Follow the instructions in [rule 1](bioinformaticsdotca.github.io/rule_1) for cr
 
 In the workshop repo, click "Create New File".  Name the file "main_GOBLET_AGM_2017.md". 
 
-Header section:
-
-```
-```
+Paste in the header section we created in [rule 5](https://bioinformaticsdotca.github.io/rule_5)
 
 Content:
 
 ```
+The content for our workshop goes here.
 ```
 
 ## Step Three: Create the Tutorial Page for the Workshop  
 
 In the workshop repo, click "Create New File".  Name the file "tutorial1_GOBLET_AGM_2017.md". 
 
-Header section:
-
-```
-```
+Paste in the header section we created in [rule 5](https://bioinformaticsdotca.github.io/rule_5)
 
 Content:
 
 ```
+The content for our tutorial goes here
 ```
 
 ## Step Four: Link the Tutorial Page to the Landing Page
 
+Back in "main_GOBLET_AGM_2017.md", we can now put a link to our tutorial file:
+
+```
+[Tutorial 1](<link to tutorial 1>)
+```
 
 
 [Next rule](https://bioinformaticsdotca.github.io/rule_7)
