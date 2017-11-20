@@ -1,0 +1,13 @@
+						<section>
+							<h2><font color="grey">Contact Us</font></h2>
+							<dl class="alt">
+								<dt><font color="grey">Email</font></dt>
+								<dd><font color="grey">{{ site.email }}</font></dd>
+							</dl>
+							<ul class="icons">
+								<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/{{ site.facebook_username }}" class="icon fa-facebook alt"><span class="label">Facebook</span></a></li>
+								<li><a href="https://github.com/{{ site.github_username }}" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
+								<li><a href="{{ site.YouTube }}" class="icon fa-youtube alt"><span class="label">YouTube</span></a></li>
+							</ul>
+						</section>
