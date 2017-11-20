@@ -30,12 +30,15 @@ The header for our example workshop's landing page should look like this:
 
 ```
 ---
-layout: workshop_main_1day
-permalink: /GOBLET_GitHub_2017
-title: GitHub Workshop Setup
-header1: Workshop Pages for Students
-header2: 10 Simple Rules for Using GitHub for Education
-image: /site_images/CBW_bigdata_icon.jpg
+layout: 2_day_main
+permalink: /awesome_workshop_1
+title: Awesome Workshop 1
+header1: Awesome Sauce Workshops
+header2: Awesome GitHub Workshop
+description: Instructions to create GitHub websites
+author: Ann Meyer
+modified: 2017-11-20
+home: https://annmeyer.github.io
 ---
 ```
 
@@ -43,14 +46,13 @@ And the header for the tutorial page should look like this:
 
 ```
 ---
-layout: tutorial_page
-permalink: /rule_5
-title: Rule 5
-header1: Workshop Pages for Students
-header2: Put important information in the page header
-image: /site_images/CBW_bigdata_icon.jpg
-home: https://bioinformaticsdotca.github.io/GOBLET_GitHub_2017
-description: This rule will cover using the header section.
+layout: tutorial
+permalink: /awesome_tutorial_1
+title: Tutorial 1
+header1: Awesome Sauce Workshops
+header2: Amazing Tutorial 1
+home: https://annmeyer.github.io/awesome_workshop_1
+description: First tutorial on creating github pages
 author: Ann Meyer
 modified: 2017-11-20
 ---
