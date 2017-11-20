@@ -82,3 +82,5 @@ git remote add origin https://github.com/username/username.github.io.git
 ```
 And that's it! You've created the repo for your site.
 
+
+[Next rule](https://bioinformaticsdotca.github.io/rule_2)
