@@ -141,3 +141,5 @@ We should also make a template for our tutorials, named tutorial.html:
 
 ```
 
+
+[Next rule](https://bioinformaticsdotca.github.io/rule_4)
