@@ -27,9 +27,13 @@ Currently, there should only be one template, default.html.  This is the templat
 
 Let's create the template for the landing page for a 2 day workshop.
 
-In the `_layouts` directory, click "Create new file".
+In the `_layouts` directory, click "Create new file".  
+
+<img src="https://github.com/bioinformaticsdotca/10_Simple_Rules/blob/master/img/new_file.png?raw=true" alt="New File" width="450" align="middle" />
 
 Name the file "2_day_main.html".
+
+<img src="https://github.com/bioinformaticsdotca/10_Simple_Rules/blob/master/img/file_name.png?raw=true" alt="Fle Name" width="450" align="middle" />
 
 Standard things we need are the html tags; the head tags and content; and the body tags.  However, there are a few things we'd like to have modifiable on each page such as:
 
