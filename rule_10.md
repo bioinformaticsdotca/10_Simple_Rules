@@ -23,4 +23,31 @@ To use Google Analytics, you need to have a Google account. This tutorial **will
 
 # Adding Google Analytics to Your Site
 
-The Analytics code should be added to every single page you want tracked.  
+The Analytics code should be added to every single page you want tracked. We can make this easy by using templates and `_config.yml` file.
+
+Conveniently, the site theme we are using already has a code snippet for Google Analytics so we just need to add in our tracking code to the config.yml file.
+
+The code snippet in the templates looks like this:
+
+```
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+```
+
+Make sure that is copied to the bottom of all of your page templates.
+
+In the `_config.yml` file in the website repo:
+
+```
+google_analytics: place tracking code here
+```
+
+It might take some time before you have enough data in Google Analytics to actually track but you should have enough data after your first workshop.
