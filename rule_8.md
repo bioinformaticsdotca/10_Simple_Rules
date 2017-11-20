@@ -79,3 +79,7 @@ Here's a list of our current workshops:
 ```
 
 Once you commit these changes, they will appear on your website.
+
+
+
+[Next rule](https://bioinformaticsdotca.github.io/rule_9)
