@@ -57,3 +57,7 @@ modified: 2017-11-20
 ```
 
 Copy these headers into text documents.
+
+
+
+[Next rule](https://bioinformaticsdotca.github.io/rule_6)
