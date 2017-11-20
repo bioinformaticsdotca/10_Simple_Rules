@@ -12,7 +12,9 @@ modified: 2017-11-17
 ---
 # Learning Objectives
 
-* Choose a theme
+* Choose a theme  
+* Upload your theme to your GitHub repo  
+* Make changes to the configuration file  
 
 # Finding Themes
 
@@ -27,7 +29,7 @@ For this example, we'll work with the [Cayman theme](https://pages-themes.github
 
 Download the theme by clicking on [Download .zip](https://github.com/pages-themes/cayman/zipball/master).  
 
-Unzip the file on your computer.  
+Unzip the file on your computer. This folder contains all the supporting materials to make your website.   
 
 ## 2 Ways to Install the Theme
 
@@ -53,7 +55,7 @@ git commit -m "Add site theme files"
 git push origin master
 ```
 
-# Making Your Landing Page
+# Making the Theme a Little Bit Yours
 
 After installing the theme, if you visit yourname.github.io, it should look like the Cayman download page (it might take a few minutes for your site to actually render.  Be patient and refresh until you see the site).
 
@@ -61,13 +63,13 @@ To make the site yours, you need to edit a few documents.  To edit files within 
 
 ## config.yml
 
-This config file is for settings that affect your whole site, values which you are expected to set up once and rarely need to edit after that.
+This configuration file is for settings that affect your whole site, values which you are expected to set up once and rarely need to edit after that.
 
 Within this file, we need to change the title and description.  We will also add social media (twitter, github) and specify our markdown type.
 
 ```
 title: Ann's Site
-description: Site built with GitHub pages.
+description: An awesome sauce workshop site.
 show_downloads: true
 theme: jekyll-theme-cayman
 url: annmeyer.github.io
