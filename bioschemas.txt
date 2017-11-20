@@ -2,9 +2,9 @@
 				<div itemscope itemtype="http://schema.org/creativeWork">
 					<meta itemprop="genre" content="trainingMaterial">
 					<meta div itemprop="name" content=" {{ page.header2 }} "> </div>
-					<meta div itemprop="description" content=" page.description }} "> </div>
+					<meta div itemprop="description" content=" {{ page.description }} "> </div>
 					<meta div> 
-						<meta span itemprop="eventType" content=" Workshops and courses"> </span>
+						<meta span itemprop="eventType" content="Workshops and courses"> </span>
 					</div>
 					<meta div>
 						<meta div itemprop="author" itemscope itemtype="http://schema.org/Person">
