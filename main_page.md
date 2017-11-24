@@ -3,13 +3,13 @@ layout: workshop_main_1day
 permalink: /GOBLET_GitHub_2017
 title: GitHub Workshop Setup
 header1: Workshop Pages for Students
-header2: 10 Simple Rules for Using GitHub for Education
+header2: 10 Simple Rules for Using GitHub for Workshops
 image: /site_images/CBW_bigdata_icon.jpg
 ---
 
 # Welcome <a id="welcome"></a>
 
-Welcome to 10 Simple Rules for Using GitHub for Education.  
+Welcome to 10 Simple Rules for Using GitHub for Workshops.  
 
 This workshop is intended to walk through the set up of GitHub pages for use with courses and workshops.  
 
