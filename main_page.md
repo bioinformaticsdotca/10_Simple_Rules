@@ -13,6 +13,12 @@ Welcome to 10 Simple Rules for Using GitHub for Education.
 
 This workshop is intended to walk through the set up of GitHub pages for use with courses and workshops.  
 
+To do this workshop, you will need to have:  
+
+* a GitHub account  
+* git installed on your computer  
+* a terminal program (Terminal in Mac/Linux, Cygwin (or similar) on Windows). 
+
 # Day 1 <a id="day1"></a>
 
 ## Welcome
