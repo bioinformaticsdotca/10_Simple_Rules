@@ -11,6 +11,8 @@ image: /site_images/CBW_bigdata_icon.jpg
 
 Welcome to 10 Simple Rules for Using GitHub for Education.  
 
+This workshop is intended to walk through the set up of GitHub pages for use with courses and workshops.  
+
 # Day 1 <a id="day1"></a>
 
 ## Welcome
