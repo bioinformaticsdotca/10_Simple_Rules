@@ -6,13 +6,13 @@ header1: Workshop Pages for Students
 header2: Put thought into your user or organisation name
 image: /site_images/CBW_bigdata_icon.jpg
 home: https://bioinformaticsdotca.github.io/GOBLET_GitHub_2017
-description: This rule will cover choosing a user or organisation name.
+description: This rule will cover choosing a user or organisation name and creating your site repo.
 author: Ann Meyer
 modified: 2017-11-15
 ---
 # Learning Objectives
 
-* Individual or organisation account  
+* Difference between individual or organisation account  
 * Create site repo
 
 # Different Account Types
@@ -41,7 +41,7 @@ To request a not-for-profit account, visit https://github.com/nonprofit.
 
 Special accounts are also available to [academic institutions](https://education.github.com/).  
 
-# Create Your Site Repo
+# Create Your Site Repo on GitHub
 
 In an internet browser, go to github.com and log into your account or your organisation account.
 
@@ -63,7 +63,16 @@ It isn't necessary to initialize with a README or license.
 
 Hit the green "Create repository" button.
 
-Switch over to a terminal and navigate to where you want the repo to be on your computer, likely in a directory named GitHub.
+# Pull Your Repo to Your Computer
+
+Switch over to a terminal on your computer.
+
+Create a new directory to store your website files.
+
+```
+mkdir GitHub
+cd GitHub
+```
 
 You will need to clone your newly created repo to your computer.  To do this, type:
 
@@ -73,12 +82,16 @@ git clone https://github.com/username/username.github.io
 
 Remember to change *username* to your user or organisation name.
 
-Next, you will need to move into your repo, initialize it as a git repo (for version control), and add the remote.  To do this, type:
+Next, you will need to move into your repo, initialize it as a git repo (for version control), add a README, and add the remote.  To do this, type:
 
 ```
 cd username.github.io
 git init
+echo "# mygobletorg.github.io" >> README.md
+git add .
+git commit -m "first commit"
 git remote add origin https://github.com/username/username.github.io.git
+git push -u origin master
 ```
 And that's it! You've created the repo for your site.
 
