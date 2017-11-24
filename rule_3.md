@@ -42,7 +42,7 @@ Standard things we need are the html tags; the head tags and content; and the bo
 * Image associate with page
 * Page content itself
 
-Content that is modifiable is contained within `{{ }}` placeholders.
+Content that is modifiable is contained within `{ {   } }` placeholders.
 
 The code for our template can be found [here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/2_day_main.txt).
 
