@@ -16,7 +16,7 @@ This workshop is intended to walk through the set up of GitHub pages for use wit
 To do this workshop, you will need to have:  
 
 * a GitHub account  
-* git installed on your computer  
+* git and developer tools installed on your computer (you will be prompted to install these when you first run git if you don't already have them installed)    
 * a terminal program (Terminal in Mac/Linux, Cygwin (or similar) on Windows). 
 
 # Day 1 <a id="day1"></a>
