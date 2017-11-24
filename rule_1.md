@@ -43,6 +43,8 @@ Special accounts are also available to [academic institutions](https://education
 
 # Create Your Site Repo on GitHub
 
+Your site repo will contain all the materials for **creating** your website (style sheets, layouts, etc.).  
+
 In an internet browser, go to github.com and log into your account or your organisation account.
 
 To create a new repo, at the top of the page in the black navigation bar, click on "+" and select "New repository".
