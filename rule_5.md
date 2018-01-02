@@ -13,6 +13,8 @@ modified: 2017-11-20
 
 # Learning Objectives
 
+To be able to:
+
 * Use page headers
 
 # Page Headers
@@ -36,7 +38,7 @@ title: Awesome Workshop 1
 header1: Awesome Sauce Workshops
 header2: Awesome GitHub Workshop
 description: Instructions to create GitHub websites
-author: Ann Meyer
+author: CBW
 modified: 2017-11-20
 home: https://annmeyer.github.io
 ---
@@ -53,7 +55,7 @@ header1: Awesome Sauce Workshops
 header2: Amazing Tutorial 1
 home: https://annmeyer.github.io/awesome_workshop_1
 description: First tutorial on creating github pages
-author: Ann Meyer
+author: CBW
 modified: 2017-11-20
 ---
 ```
