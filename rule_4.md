@@ -45,4 +45,11 @@ Several groups, including [GOBLET's Standards Committee](https://www.mygoblet.or
 
 [Here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/bioschemas.txt) is the code snippet that we will add to the `<head>` section of our workshop landing and tutorial templates that we created in [rule 3](https://bioinformaticsdotca.github.io/rule_3). Paste this code right before the `</head>` tag in the 2 layouts.  Remember to include this code in any new layouts you create!    
 
+Let's pull all our changes to our local computer.  On your local computer in your website repo type:
+
+```
+git pull origin master
+```
+
+
 [Next rule](https://bioinformaticsdotca.github.io/rule_5)
