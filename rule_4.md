@@ -13,6 +13,8 @@ modified: 2017-11-17
 
 # Learning Objectives
 
+Be able to:
+
 * Know what is FAIR  
 * Use metadata with BioSchemas to be FAIR  
 
@@ -26,7 +28,7 @@ Having your content on GitHub is a good start for accessibility and adding CC-Sh
 
 ## Metadata Tags and BioSchemas
 
-These are tags that keep the content from being displayed on your site but are machine readable.
+Metadata tags are tags that keep the content from being displayed on your site but are machine readable.
 
 In BioSchemas, somethings that you want to include but don't necessarily want displayed are:
 
@@ -39,6 +41,8 @@ In BioSchemas, somethings that you want to include but don't necessarily want di
 * the date the content was last modified  
 * a description of the content  
 
-[Here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/bioschemas.txt) is the code snippet that should be added to the `<head>` section of your workshop landing and tutorial templates.  
+Several groups, including [GOBLET's Standards Committee](https://www.mygoblet.org/content/standards), are working on best practices for using BioSchemas to tag educational content from in-person and online workshops.  
+
+[Here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/bioschemas.txt) is the code snippet that we will add to the `<head>` section of our workshop landing and tutorial templates that we created in [rule 3](https://bioinformaticsdotca.github.io/rule_3). Paste this code right before the `</head>` tag in the 2 layouts.  Remember to include this code in any new layouts you create!    
 
 [Next rule](https://bioinformaticsdotca.github.io/rule_5)
