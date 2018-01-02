@@ -13,11 +13,13 @@ modified: 2017-11-17
 
 # Learning Objectives
 
+Be able to:
+
 * Create page templates
 
 # Templates
 
-Templates take care of the tedious bits of your pages.  These are things that need to be on every page and are consistent across pages.  You should have a few different templates (workshop landing page, tutorial page, etc).  
+Templates take care of the tedious layout bits of your pages.  These layouts are consistent across pages and contain things that should be on every page.  You should have a few different templates (workshop landing page, tutorial page, etc).  
 
 Templates are found in the `_layouts` directory and are written in html.
 
@@ -39,15 +41,18 @@ Standard things we need are the html tags; the head tags and content; and the bo
 
 * Title that appears in internet tab
 * Title and subtitle that appear on the page
-* Image associate with page
+* Image associate with the page
 * Page content itself
 
-Content that is modifiable is contained within `{ {   } }` placeholders.
+Content that is modifiable is contained within curly bracket `{ {   } }` placeholders.
 
 The code for our template can be found [here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/2_day_main.txt).
 
-Copy this into your file and commit it.
+Copy the text (Ctrl+A and Ctrl+C) and paste it (Ctrl+V) into the textbox and commit it.
 
-We should also make a template for our tutorials, named tutorial.html.  The code can be found [here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/tutorial.txt).  
+<img src="https://github.com/bioinformaticsdotca/10_Simple_Rules/blob/master/img/PasteText.png?raw=true" alt="Paste Text Box" width="450" align="middle" />
+
+
+We should also make a template for our tutorials.  Repeat the steps above to create a template named tutorial.html with the code found [here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/tutorial.txt).  
 
 [Next rule](https://bioinformaticsdotca.github.io/rule_4)
