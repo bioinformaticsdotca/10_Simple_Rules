@@ -13,13 +13,15 @@ modified: 2017-11-20
 
 # Learning Objectives
 
-* Importance of individual repos for each workshop  
+Be able to:
+
+* Understand the importance of individual repos for each workshop  
 * Set up your workshop repo  
 * Create content for your workshop
 
 # Why Using Individual Repos for Each Workshop is Important  
 
-You may offer the same workshop every year (or multiple times a year) and the content for that workshop might change subtly (for example a different instructor but the same content) or the content might change drastically (for example shift to different software or pipeline).  In both cases, you want past students to be able to access the content they were taught but you also want new students to access the most up-to-date content.  You could simply create a new directory in your repo for each time you offer a workshop but this gets very messy very quickly and when students download or clone your repo it's difficult for them to determine which workshop they might have taken.  The size of your repo also becomes rather large if you offer multiple workshops a year.  
+You may offer the same workshop every year (or multiple times a year) and the content for that workshop might change subtly (eg a different instructor but the same content) or the content might change drastically (eg shift to different software or pipeline).  In both cases, you want past students to be able to access the content they were taught but you also want new students to access the most up-to-date content.  You could simply create a new directory in your repo for each time you offer a workshop but this gets very messy very quickly and when students download or clone your repo it's difficult for them to determine which workshop they might have taken.  The size of your repo also becomes rather large if you offer multiple workshops a year.  
 
 Creating a separate repo each time you offer a workshop:
 
@@ -40,35 +42,35 @@ Follow the instructions in [rule 1](bioinformaticsdotca.github.io/rule_1) for cr
 
 ## Step Two: Create the Landing Page for the Workshop  
 
-In the workshop repo, click "Create New File".  Name the file "main_GOBLET_AGM_2017.md". 
+In the workshop repo (GOBLET_AGM_2017), click "Create New File".  Name the file "main_GOBLET_AGM_2017.md". The .md extension means that this file is written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 
-Paste in the header section we created in [rule 5](https://bioinformaticsdotca.github.io/rule_5)
+Paste in the header section we created in [rule 5](https://bioinformaticsdotca.github.io/rule_5).
 
-Content:
+Below the header section, you can add any content you wish, such as:
 
 ```
-The content for our workshop goes here.
+Welcome to GOBLET AGM 2017.
 ```
 
 ## Step Three: Create the Tutorial Page for the Workshop  
 
-In the workshop repo, click "Create New File".  Name the file "tutorial1_GOBLET_AGM_2017.md". 
+In the workshop repo (GOBLET_AGM_2017), click "Create New File".  Name the file "tutorial1_GOBLET_AGM_2017.md". 
 
-Paste in the header section we created in [rule 5](https://bioinformaticsdotca.github.io/rule_5)
+Paste in the header section we created in [rule 5](https://bioinformaticsdotca.github.io/rule_5).
 
-Content:
+Below the header section, you can add any content you wish, such as:
 
 ```
-The content for our tutorial goes here
+This is the first tutorial for GOBLET AGM 2017.
 ```
 
 ## Step Four: Link the Tutorial Page to the Landing Page
 
-Back in "main_GOBLET_AGM_2017.md", we can now put a link to our tutorial file:
+Back in "main_GOBLET_AGM_2017.md", we can now put a link to our tutorial file. Links in markdown are created with square brackets for the text followed by curvy brackets for the link without space between the two sets of brackets.
 
 ```
 [Tutorial 1](<link to tutorial 1>)
 ```
-
+Remember to replace `<link to tutorial 1>` with the actual link to your tutorial page.
 
 [Next rule](https://bioinformaticsdotca.github.io/rule_7)
