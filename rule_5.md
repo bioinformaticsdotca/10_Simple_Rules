@@ -40,7 +40,7 @@ header2: Awesome GitHub Workshop
 description: Instructions to create GitHub websites
 author: CBW
 modified: 2017-11-20
-home: https://annmeyer.github.io
+home: https://bioinformaticsdotca.github.io
 ---
 ```
 
@@ -53,14 +53,14 @@ permalink: /awesome_tutorial_1
 title: Tutorial 1
 header1: Awesome Sauce Workshops
 header2: Amazing Tutorial 1
-home: https://annmeyer.github.io/awesome_workshop_1
+home: https://bioinformaticsdotca.github.io/awesome_workshop_1
 description: First tutorial on creating github pages
 author: CBW
 modified: 2017-11-20
 ---
 ```
 
-Copy these headers into text documents.
+Copy these headers into text documents and modify them as needed.
 
 
 
