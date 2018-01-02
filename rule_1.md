@@ -12,7 +12,7 @@ modified: 2017-11-15
 ---
 # Learning Objectives
 
-* Understand the difference between individual or organisation account  
+* Understand the difference between individual and organisation account  
 * Be able to create a site repo
 
 # The Different Account Types
