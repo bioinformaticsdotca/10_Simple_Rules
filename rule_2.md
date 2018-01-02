@@ -81,16 +81,16 @@ This configuration file is for settings that affect your whole site, things that
 Within this file, we need to change the title and description.  We will also add social media (twitter, github) and specify our markdown type.
 
 ```
-title: Ann's Site
+title: My Site
 description: An awesome sauce workshop site.
 show_downloads: true
 theme: jekyll-theme-cayman
-url: annmeyer.github.io
+url: bioinformaticsdotca.github.io
 
 # Social Media
 
-twitter_username: meyer_ann
-github_username:  annmeyer
+twitter_username: Bioinfodotca
+github_username:  bioinformatics-ca
 
 # Build settings
 markdown: kramdown
