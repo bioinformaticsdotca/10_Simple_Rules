@@ -22,15 +22,18 @@ modified: 2017-11-15
 * **All** users have individual accounts.  This is **your** identity on GitHub 
 * Individual accounts have only one owner but can have many collaborators  
 * Include unlimited *public* repos and unlimited collaborators
-* Can pay for private repos
+* Can pay for private repos  
 
 ## Organisation Accounts
+
+These accounts are good for working as part of large groups with different people needing write access to different files/repos.  
 
 * Shared accounts with (many) **owners, administrators, and members** with different levels of privileges and access  
 * Include unlimited *public* repos and unlimited collaborators  
 * Have the ability to assign teams to repos so that only certain people have access to some repos  
 * Can require all organisation members to use two-factor authentication 
 * Can pay for private repos, apply for education discount, or request a not-for-profit account for free private repos  
+
 
 ### Getting a Not-For-Profit Organisation Account
 
