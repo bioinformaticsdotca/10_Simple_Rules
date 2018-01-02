@@ -99,14 +99,14 @@ And that's it! You've created the repo for your site.
 
 ## Commands Used in This Rule
 
-mkdir - creates a new directory  
-cd - allows you to move into a directory  
-git init - initializes a repo/directory as a git repo/directory for version control  
-echo - prints the text that comes after it   
->> - redirects output from the screen to a file  
-git add - puts new changes on list of changes to confirm for version control  
-git commit - confirms new changes for version control  
-git remote add - adds an address to send changes to   
-git push - sends confirmed changes to remote (ie GitHub)  
+`mkdir` - creates a new directory  
+`cd` - allows you to move into a directory  
+`git init` - initializes a repo/directory as a git repo/directory for version control  
+`echo` - prints the text that comes after it   
+`>>` - redirects output from the screen to a file  
+`git add` - puts new changes on list of changes to confirm for version control  
+`git commit` - confirms new changes for version control  
+`git remote add` - adds an address to send changes to   
+`git push` - sends confirmed changes to remote (ie GitHub)  
 
 [Next rule](https://bioinformaticsdotca.github.io/rule_2)
