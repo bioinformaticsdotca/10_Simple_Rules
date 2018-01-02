@@ -12,22 +12,23 @@ modified: 2017-11-15
 ---
 # Learning Objectives
 
-* Difference between individual or organisation account  
-* Create site repo
+* Understand the difference between individual or organisation account  
+* Be able to create a site repo
 
-# Different Account Types
+# The Different Account Types
 
 ## Individual Accounts
 
-* All users have individual accounts.  This is **your** identity on GitHub     
+* **All** users have individual accounts.  This is **your** identity on GitHub 
+* Individual accounts have only one owner but can have many collaborators  
 * Include unlimited *public* repos and unlimited collaborators
 * Can pay for private repos
 
 ## Organisation Accounts
 
-* Shared accounts with **owners, administrators, and members** with different levels of privileges and access  
+* Shared accounts with (many) **owners, administrators, and members** with different levels of privileges and access  
 * Include unlimited *public* repos and unlimited collaborators  
-* Have the ability to assign teams
+* Have the ability to assign teams to repos so that only certain people have access to some repos  
 * Can require all organisation members to use two-factor authentication 
 * Can pay for private repos, apply for education discount, or request a not-for-profit account for free private repos  
 
@@ -43,7 +44,7 @@ Special accounts are also available to [academic institutions](https://education
 
 # Create Your Site Repo on GitHub
 
-Your site repo will contain all the materials for **creating** your website (style sheets, layouts, etc.).  
+Your site repo is just like any other repo you would create.  What makes it special is that your site repo will contain all the materials for **creating** your website (style sheets, layouts, etc.).  
 
 In an internet browser, go to github.com and log into your account or your organisation account.
 
