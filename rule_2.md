@@ -12,11 +12,15 @@ modified: 2017-11-17
 ---
 # Learning Objectives
 
-* Choose a theme  
+Be able to:
+
+* Choose a theme for your site    
 * Upload your theme to your GitHub repo  
 * Make changes to the configuration file  
 
 # Finding Themes
+
+Themes are the template of what your website looks like.  Somethings are simple to change (colours, fonts) while others are more complex (overall layout, menus).  
 
 3 ways to find a theme:  
 1. Choose one of the [GitHub supported themes](https://pages.github.com/themes/)  
@@ -29,7 +33,7 @@ For this example, we'll work with the [Cayman theme](https://pages-themes.github
 
 Download the theme by clicking on [Download .zip](https://github.com/pages-themes/cayman/zipball/master).  
 
-Unzip the file on your computer. This folder contains all the supporting materials to make your website.   
+Find where the file was downloaded on your computer and unzip the file on your computer. This folder contains all the supporting materials to make your website.   
 
 ## 2 Ways to Install the Theme
 
