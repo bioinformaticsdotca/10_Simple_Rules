@@ -12,7 +12,7 @@ modified: 2017-11-15
 ---
 # Learning Objectives
 
-* Understand the difference between individual and organisation account  
+* Understand the difference between individual and organisation accounts  
 * Be able to create a site repo
 
 # The Different Account Types
@@ -68,26 +68,19 @@ Hit the green "Create repository" button.
 
 # Pull Your Repo to Your Computer
 
-Switch over to a terminal on your computer.
+Switch over to a terminal (Terminal on Mac/Linux, Cygwin or similar on Windows) on your computer.
 
-Create a new directory to store your website files.
+Create a new directory to store your GitHub files and move into that directory.
 
 ```
 mkdir GitHub
 cd GitHub
 ```
 
-You will need to clone your newly created repo to your computer.  To do this, type:
+Next, create a repo for your website and move into your repo, initialize it as a git repo (for version control), add a README, and add the remote.  To do this, type:
 
 ```
-git clone https://github.com/username/username.github.io
-```
-
-Remember to change *username* to your user or organisation name.
-
-Next, you will need to move into your repo, initialize it as a git repo (for version control), add a README, and add the remote.  To do this, type:
-
-```
+mkdir username.github.io
 cd username.github.io
 git init
 echo "# mygobletorg.github.io" >> README.md
@@ -96,7 +89,21 @@ git commit -m "first commit"
 git remote add origin https://github.com/username/username.github.io.git
 git push -u origin master
 ```
+
+Remember to change *username* to your user or organisation name.
+
 And that's it! You've created the repo for your site.
 
+## Commands Used in This Rule
+
+mkdir - creates a new directory  
+cd - allows you to move into a directory  
+git init - initializes a repo/directory as a git repo/directory for version control  
+echo - prints the text that comes after it   
+>> - redirects output from the screen to a file  
+git add - puts new changes on list of changes to confirm for version control  
+git commit - confirms new changes for version control  
+git remote add - adds an address to send changes to   
+git push - sends confirmed changes to remote (ie GitHub)  
 
 [Next rule](https://bioinformaticsdotca.github.io/rule_2)
