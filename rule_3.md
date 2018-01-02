@@ -55,4 +55,11 @@ Copy the text (Ctrl+A and Ctrl+C) and paste it (Ctrl+V) into the textbox and com
 
 We should also make a template for our tutorials.  Repeat the steps above to create a template named tutorial.html with the code found [here](https://raw.githubusercontent.com/bioinformaticsdotca/10_Simple_Rules/master/tutorial.txt).  
 
+
+Let's pull all our changes to our local computer.  On your local computer in your website repo type:
+
+```
+git pull origin master
+```
+
 [Next rule](https://bioinformaticsdotca.github.io/rule_4)
